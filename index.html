@@ -7,9 +7,16 @@
     {% include favicon.html %}
     <link rel="stylesheet" type="text/css" href="css/reset.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="stylesheet" type="text/css" href="css/zoom.css">
+    <link href="path/to/dist/zoom.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,900" rel="stylesheet">
   </head>
+<!--     <script 
+    src="https://code.jquery.com/jquery-3.2.1.js"
+    integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+    crossorigin="anonymous"></script>
+  <script src="js/transition.js"></script> -->
+  <script src="path/to/dist/zoom-vanilla.min.js"></script>
+  <script src="js/gallery.js"></script>
   <body>
     <div id="container">
       <!--------------- YOUR NAME OVER HERE -------------->
@@ -20,13 +27,7 @@
 
    
   </body>
-  <script 
-    src="https://code.jquery.com/jquery-3.2.1.js"
-    integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
-    crossorigin="anonymous"></script>
-  <script src="js/transition.js"></script>
-  <script src="js/zoom.min.js"></script>
-  <script src="js/gallery.js"></script>
+
   <script>
     var COLUMNS = 'columns';
     var ROWS = 'rows';
@@ -46,5 +47,5 @@
     };
   </script>
   <script src="js/script.js"></script>
-  {% include ga.html %}
+  <!-- {% include ga.html %} -->
 </html>
