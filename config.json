@@ -1,98 +1,14 @@
 {
-  "Nature Is Fucking Lit": [
-    {
-      "width": 1500,
-      "path": "./photos/Nature Is Fucking Lit/IMG0260.JPG",
-      "height": 1500
-    },
-    {
-      "width": 1555,
-      "path": "./photos/Nature Is Fucking Lit/IMG8292.JPG",
-      "height": 1037
-    },
-    {
-      "width": 2074,
-      "path": "./photos/Nature Is Fucking Lit/IMG9045.JPG",
-      "height": 1382
-    }
-  ],
+  "Nature Is Fucking Lit": [],
+  "People": [],
   "Travel": [
     {
-      "width": 1613,
-      "path": "./photos/Travel/IMG_0626.JPG",
-      "height": 1210
-    },
-    {
-      "width": 1613,
-      "path": "./photos/Travel/IMG_0795.JPG",
-      "height": 1210
-    },
-    {
-      "width": 1613,
-      "path": "./photos/Travel/IMG_1308.JPG",
-      "height": 1210
-    },
-    {
-      "width": 2074,
-      "path": "./photos/Travel/IMG_8739.JPG",
-      "height": 1382
-    },
-    {
-      "width": 2074,
-      "path": "./photos/Travel/IMG_9103.JPG",
-      "height": 1382
-    },
-    {
-      "width": 1382,
-      "path": "./photos/Travel/IMG_9229.JPG",
-      "height": 2074
-    },
-    {
-      "width": 1465,
+      "width": 733,
+      "height": 1098,
       "path": "./photos/Travel/lighthouse.jpg",
-      "height": 2195
-    }
-  ],
-  "People": [
-    {
-      "width": 2189,
-      "path": "./photos/People/IMG_0016.JPG",
-      "height": 1459
-    },
-    {
-      "width": 1459,
-      "path": "./photos/People/IMG_0132.JPG",
-      "height": 2189
-    },
-    {
-      "width": 2019,
-      "path": "./photos/People/IMG_0161.JPG",
-      "height": 1428
-    },
-    {
-      "width": 1952,
-      "path": "./photos/People/IMG_0295.JPG",
-      "height": 1297
-    },
-    {
-      "width": 1613,
-      "path": "./photos/People/IMG_0865.JPG",
-      "height": 1210
-    },
-    {
-      "width": 2074,
-      "path": "./photos/People/IMG_8516.JPG",
-      "height": 1382
-    },
-    {
-      "width": 1555,
-      "path": "./photos/People/IMG_8634.JPG",
-      "height": 1037
-    },
-    {
-      "width": 1555,
-      "path": "./photos/People/IMG_8997.JPG",
-      "height": 1037
+      "compressed_path": "./photos/Travel/lighthouse.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Travel/lighthouse.placeholder.jpg"
     }
   ]
 }
